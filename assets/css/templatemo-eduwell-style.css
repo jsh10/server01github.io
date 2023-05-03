@@ -938,9 +938,9 @@ section.our-courses ul.nacc li .right-content ul {
 section.our-courses ul.nacc li .right-content span {
   font-size: 14px;
   font-weight: 600;
-  margin-right: 30px;
-  padding-right: 30px;
-  border-right: 2px solid #111;
+  margin-right: 10px;
+  padding-right: 10px;
+  border-right: 2px solid #079cb6;
 }
 
 section.our-courses ul.nacc li .right-content .last-span {
